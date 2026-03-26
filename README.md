@@ -72,8 +72,8 @@
   <summary><b>🌐 Full-Stack Web Development</b></summary>
   <blockquote>
     <ul>
-      <li><b><a href="[PROJECT_LINK]">[PROJECT_NAME]</a></b>: Brief description. Built using <code>React.js</code>, <code>JavaScript</code>, <code>HTML</code>, and <code>CSS</code>.</li>
-      <li><b><a href="[PROJECT_LINK]">[PROJECT_NAME]</a></b>: Brief description. Showcases modern responsive design principles.</li>
+      <li><b><a href="https://github.com/sadmanCR7/Aeropulse-Flight-Booking-Management-System">Aeropulse: A Flight Booking and Management System</a></b>: Built using <code>Django</code>, <code>JavaScript</code>, <code>HTML</code>, and <code>CSS</code>.</li>
+      <li><b><a href="https://portfolio-sadmansakib.vercel.app/">Portfolio Website</a></b>: Showcases modern responsive design principles.</li>
     </ul>
   </blockquote>
 </details>
@@ -83,8 +83,8 @@
   <blockquote>
     <ul>
       <!-- 🔴 CHANGE THIS: Update Research Topic and CP links -->
-      <li><b>[RESEARCH_TOPIC]</b>: Currently exploring this topic as part of my ICE curriculum.</li>
-      <li><b>Competitive Programming</b>: Solved 200+ problems on LeetCode/HackerRank using <code>C++</code> and <code>Java</code>. <a href="https://leetcode.com/u/sadman37/">View Profile</a>.</li>
+      <!-- <li><b>[RESEARCH_TOPIC]</b>: Currently exploring this topic as part of my ICE curriculum.</li> -->
+      <li><b>Competitive Programming</b>: Solved problems on LeetCode <a href="https://leetcode.com/u/sadman37/">View Profile</a>.</li>
     </ul>
   </blockquote>
 </details>
