@@ -14,7 +14,7 @@
   </p>
 
   <!-- 🔴 CHANGE THIS: Replace[YOUR_GITHUB_USERNAME] with your actual GitHub username -->
-  <img src="https://komarev.com/ghpvc/?username=sadmanCR7&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Visitor Badge"/>
+  <!--<img src="https://komarev.com/ghpvc/?username=sadmanCR7&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Visitor Badge"/>-->
 </div>
 
 <br>
